@@ -449,7 +449,7 @@ section .swiper .swiper-slide .image {
     font-size: 14px;
     margin-top: 10px;
 }
-.sec5 .center .content h1 span.timer {
+.sec5 .center .content h1 span {
     color: #35C5F0;
 }
 .sec5 .center .content h1 span.price {
@@ -1109,7 +1109,7 @@ footer .sns ul li {
         font-size: 1vw;
         margin-bottom: 3vw;
     }
-    .sec5 .center .content h1 span.timer {
+    .sec5 .center .content h1 span {
         font-size: 2vw;
     }
     .sec5 .center {
